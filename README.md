@@ -1,0 +1,1 @@
+# Ideas-about-Working-Platform-For-Business-Analyst
