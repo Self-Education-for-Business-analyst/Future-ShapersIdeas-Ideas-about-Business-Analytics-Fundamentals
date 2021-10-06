@@ -1,12 +1,7 @@
 .
 
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1044" height="500">
- 
- 
- 
- .
- 
+
 
 
 > # Working-Platform For Business Analyst
@@ -15,9 +10,14 @@
 ==================================
 .
 
-> ![new220000](https://user-images.githubusercontent.com/36210723/136198732-6ec71c86-93e1-45a6-9a5d-b58745922ca0.gif)
 
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1044" height="500">
+ 
+ 
+ 
+ .
+ 
 
 
 .
