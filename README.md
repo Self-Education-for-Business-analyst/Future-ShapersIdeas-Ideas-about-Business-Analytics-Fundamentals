@@ -10,7 +10,7 @@
 .
 
 
-![new22](https://user-images.githubusercontent.com/36210723/136198395-65e1e30f-ec31-4f09-b7e4-7769bc7e211e.gif)
+> ![new22](https://user-images.githubusercontent.com/36210723/136198395-65e1e30f-ec31-4f09-b7e4-7769bc7e211e.gif)
 
 .
 
