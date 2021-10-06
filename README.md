@@ -18,9 +18,6 @@
 
 .
 
-![127667796-4677ebfa-fd91-4f3a-9ebb-732145b85140](https://user-images.githubusercontent.com/36210723/136195982-436cf3a3-8b29-4728-85aa-e2f3560104eb.gif)
-
-
 
 .
 
