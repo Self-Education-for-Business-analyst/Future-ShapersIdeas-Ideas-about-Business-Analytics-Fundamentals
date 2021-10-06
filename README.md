@@ -1,6 +1,12 @@
 .
 
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1044" height="500">
+ 
+ 
+ 
+ .
+ 
 
 
 > # Working-Platform For Business Analyst
