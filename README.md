@@ -11,14 +11,6 @@
 
 > ![new220000](https://user-images.githubusercontent.com/36210723/136198732-6ec71c86-93e1-45a6-9a5d-b58745922ca0.gif)
 
-.
-
-.
-
-> ![new22](https://user-images.githubusercontent.com/36210723/136198395-65e1e30f-ec31-4f09-b7e4-7769bc7e211e.gif)
-
-
-.
 
 
 
