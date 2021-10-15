@@ -168,6 +168,10 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
+
+.
+ 
+
 `Data Analyst` :  A person who is good  at Statistics and  working with tools like Tableu or Excel
 
 `Data Scientist`: A person who is better at Statistics than any Software Engineer, and better at Software Engineering than any Statistician
@@ -185,7 +189,10 @@ https://user-images.githubusercontent.com/36210723/134777124-c8678713-c31f-49b1-
  
  
  
-- **Data Scientist Vs Data Engineer Vs Data Analyst**
+> -  **Data Scientist Vs Data Engineer Vs Data Analyst**
 
 
 
+.
+ 
+ 
