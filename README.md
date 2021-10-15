@@ -160,7 +160,11 @@ GitHub is a code hosting platform for version control and collaboration , It let
  
  
  
-- **Data science vs Artificial Intelligence vs Machine Learning vs Deep Learning**
+
+========================
+
+
+> - **Data science vs Artificial Intelligence vs Machine Learning vs Deep Learning**
 
 
 
@@ -181,7 +185,7 @@ https://user-images.githubusercontent.com/36210723/134777124-c8678713-c31f-49b1-
  
  
  
-- ** Data Scientist Vs Data Engineer Vs Data Analyst**
+- **Data Scientist Vs Data Engineer Vs Data Analyst**
 
 
 
