@@ -202,4 +202,4 @@ https://user-images.githubusercontent.com/36210723/134777124-c8678713-c31f-49b1-
 
 .
  
- 
+- https://www.mastersindatascience.org/learning/how-to-deal-with-missing-data/
