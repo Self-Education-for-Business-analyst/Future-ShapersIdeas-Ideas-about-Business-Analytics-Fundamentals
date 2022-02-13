@@ -178,7 +178,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
-> ### Also here is a [executive guide for data science and artificial intelligence (AI)]()
+> ### Also here is a [executive guide for data science and artificial intelligence (AI)](https://github.com/Self-Education-for-Business-analyst/Ideas-about-Working-Platform-For-Business-Analyst/blob/main/Executive%20guide%20for%20data%20science%20and%20artificial%20intelligence%20(AI).pdf)
 .
 
 
