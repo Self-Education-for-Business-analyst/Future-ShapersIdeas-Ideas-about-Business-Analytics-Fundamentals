@@ -4,9 +4,9 @@
 
 
 
-> # Working-Platform For Business Analyst
+> # [Business Analytics Fundamentals for Future Shapers](https://classroom.udacity.com/nanodegrees/nd098-adsg-fs/parts/9925f992-66fd-41fe-bfba-06572a9453b7)
 
-[Business Analytics Fundamentals for Future Shapers](https://classroom.udacity.com/nanodegrees/nd098-adsg-fs/parts/9925f992-66fd-41fe-bfba-06572a9453b7)
+
 ============================================================
 
 
